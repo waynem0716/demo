@@ -1,0 +1,8 @@
+for a in range(0,100):
+    if a%10==7:
+        continue
+    elif a//10==7:
+        continue
+    elif a%3==7:
+        continue
+    print(a）
