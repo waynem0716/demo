@@ -1,0 +1,2 @@
+#DEME
+print('hello world')
